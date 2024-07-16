@@ -11,7 +11,7 @@
     ul{
         display: flex;
         align-items: center;
-        background: rgb(211, 14, 96);
+        background: rgb(22, 162, 255);
         width: 90%;
         height: 10vh;
         margin: auto;

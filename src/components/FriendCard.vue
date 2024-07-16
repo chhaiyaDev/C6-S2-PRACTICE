@@ -1,6 +1,6 @@
 <template>
     <div class="card">
-        <h2>ronan ogor</h2>
+        <h2>bro chhaiya</h2>
         <p>The best of the best</p>
     </div>
 </template>
